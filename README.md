@@ -1,8 +1,7 @@
-Hey, I’m cyvern/cyverneon :] they/them
-
-I'm a gamedev student and a nerd for everything with the motivation for nothing
-
-Looking to start doing some small projects and learning version control with them, as well as maybe contributing to stuff
+Hello, I'm cyvern :)
+- game dev student specialising in programming
+- occasionally i do projects
+- sometimes they're even kinda cool
 
 <!---
 Cyverneon/Cyverneon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
