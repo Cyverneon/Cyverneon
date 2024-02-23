@@ -1,7 +1,7 @@
 Hello, I'm cyvern :)
 - game dev student specialising in programming
-- occasionally i do projects
-- sometimes they're even kinda cool
+- mainly experience with c++ but I've also worked with c# and python
+- i've made games in unreal and unity
 
 <!---
 Cyverneon/Cyverneon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
