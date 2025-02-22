@@ -1,5 +1,5 @@
-Hello, I'm cyvern :)
-- I'm a game dev student specializing in programming
+Hello, I'm cyvern
+- I'm a gameplay programmer and technical artist
 - I've made games in unreal, unity and godot
 - I know c++, c#, python, godot gdscript and unreal blueprints
 
